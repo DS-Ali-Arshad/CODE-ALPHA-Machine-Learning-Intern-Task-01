@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to explore the repository and provide feedback or suggestions. If you have any questions or need further information about the project, please don't hesitate to contact me at ds.aliarshad@gmail.com.
 
-Happy Coding!
+Happy Coding!<br>
 Ali Arshad
