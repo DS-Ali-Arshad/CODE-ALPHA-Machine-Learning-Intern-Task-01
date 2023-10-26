@@ -52,7 +52,7 @@ In this task, I gained valuable experience in data preprocessing, exploratory da
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to explore the repository and provide feedback or suggestions. If you have any questions or need further information about the project, please don't hesitate to contact me at ds.aliarshad@example.com.
+Feel free to explore the repository and provide feedback or suggestions. If you have any questions or need further information about the project, please don't hesitate to contact me at ds.aliarshad@gmail.com.
 
 Happy Coding!
 Ali Arshad
